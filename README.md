@@ -8,7 +8,7 @@
 - 시뮬레이션, 구현 문제
 - 기타 그래프 이론
 
-## 👩‍👧‍👧👨‍👧 Contributors
+## 👩‍👧‍👧👨‍👧 Contributors' Blog
 
 [KwonSuhyeon]()</br>
 [minju](http://talswn26.tistory.com)</br>
@@ -23,7 +23,7 @@
  - BOJ/ [algorithm 종류][문제번호] 문제 이름/ 자기 이름/ src</br>
  - BOJ/ [algorithm 종류][문제번호] 문제 이름/ 자기 이름/ README.md
 
- ex) 
+ ex)</br>
   BOJ/DP/[1562] 계단수/ini/boj1562.py</br>
   BOJ/DP/[1562] 계단수/ini/README.md
  
