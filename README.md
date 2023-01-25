@@ -9,11 +9,11 @@
 - 기타 그래프 이론
 
 ## 👩‍👧‍👧👨‍👧 Contributors
-[KwonSuhyeon]("")
-[minju]("http://talswn26.tistory.com")
-[ini]("https://hardworkingini.tistory.com/")
-[adorableco]("https://goodcodebetter.tistory.com/")
-[chjh1211]("")
+[KwonSuhyeon]()
+[minju](http://talswn26.tistory.com)
+[ini](https://hardworkingini.tistory.com/)
+[adorableco](https://goodcodebetter.tistory.com/)
+[chjh1211]()
 
 ## 📌 규칙
 
