@@ -10,7 +10,7 @@
 
 ## 👩‍👧‍👧👨‍👧 Contributors' Blog
 
-[KwonSuhyeon](kwonssshyeon.tistory.com)</br>
+[kwonssshyeon](http://kwonssshyeon.tistory.com)</br>
 [minju](http://talswn26.tistory.com)</br>
 [ini](https://hardworkingini.tistory.com/)</br>
 [adorableco](https://goodcodebetter.tistory.com/)</br>
