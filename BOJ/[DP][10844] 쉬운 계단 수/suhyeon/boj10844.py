@@ -14,4 +14,4 @@ for i in range(1,n):
 for i in range(10):
     sum = sum + dp[n-1][i]
 
-print(sum)
+print(sum%1000000000)
