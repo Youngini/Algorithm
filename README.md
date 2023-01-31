@@ -8,13 +8,14 @@
 - 시뮬레이션, 구현 문제
 - 기타 그래프 이론
 
-## 👩‍👧‍👧👨‍👧 Contributors' Blog
-
-[kwonssshyeon](http://kwonssshyeon.tistory.com)</br>
-[minju](http://talswn26.tistory.com)</br>
-[ini](https://hardworkingini.tistory.com/)</br>
-[adorableco](https://goodcodebetter.tistory.com/)</br>
-[chjh1211]()</br>
+## 👩‍👧‍👧👨‍👧 Contributors' Github & Blog
+|Git hub|Blog|
+|:---:|:---:|
+|[kwonssshyeon](https://github.com/kwonssshyeon) | [사쩜삼](http://kwonssshyeon.tistory.com)|
+|[minju](https://github.com/minju26) | [minjublog](http://talswn26.tistory.com)</br>|
+|[ini](https://github.com/Youngini) | [냥발자 블로그](https://hardworkingini.tistory.com/)</br>|
+|[adorableco](https://github.com/adorableco) | [adorableco](https://goodcodebetter.tistory.com/)</br>|
+|[chjh1211](https://github.com/chjh1211) | [chjh1211]()</br>|
 
 ## 📌 규칙
 
