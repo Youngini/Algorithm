@@ -15,7 +15,7 @@
 |[minju](https://github.com/minju26) | [minjublog](http://talswn26.tistory.com)</br>|
 |[ini](https://github.com/Youngini) | [냥발자 블로그](https://hardworkingini.tistory.com/)</br>|
 |[adorableco](https://github.com/adorableco) | [adorableco](https://goodcodebetter.tistory.com/)</br>|
-|[chjh1211](https://github.com/chjh1211) | [chjh1211]()</br>|
+|[chjh1211](https://github.com/chjh1211) | [chjh1211](https://alwaysa.tistory.com/m)</br>|
 
 ## 📌 규칙
 
