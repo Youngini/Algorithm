@@ -14,8 +14,8 @@
 |[kwonssshyeon](https://github.com/kwonssshyeon) | [사쩜삼](http://kwonssshyeon.tistory.com)|
 |[minju](https://github.com/minju26) | [minjublog](http://talswn26.tistory.com)</br>|
 |[ini](https://github.com/Youngini) | [냥발자 블로그](https://hardworkingini.tistory.com/)</br>|
-|[adorableco](https://github.com/adorableco) | [adorableco](https://goodcodebetter.tistory.com/)</br>|
-|[chjh1211](https://github.com/chjh1211) | [chjh1211](https://alwaysa.tistory.com/m)</br>|
+|[adorableco](https://github.com/adorableco) | [💻💭🎧🌏](https://goodcodebetter.tistory.com/)</br>|
+|[chjh1211](https://github.com/chjh1211) | [일지](https://alwaysa.tistory.com/m)</br>|
 
 ## 📌 규칙
 
@@ -39,3 +39,4 @@
 |:------:|:---:|:---:|:----:|
 |1주차</br> (23.01.18 ~ 23.01.24)|[2xn 타일링](https://www.acmicpc.net/problem/11726)|[1로 만들기](https://www.acmicpc.net/problem/1463)|[정수 삼각형](https://www.acmicpc.net/problem/1932)|
 |2주차</br> (23.01.25 ~ 23.01.31)|[RGB거리](https://www.acmicpc.net/problem/1149)|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[계단 수](https://www.acmicpc.net/problem/1562)|
+|3주차</br> (23.02.01 ~ 23.02.07)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[LCS](https://www.acmicpc.net/problem/9251)|[줄 세우기](https://www.acmicpc.net/problem/2631)|
