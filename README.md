@@ -30,8 +30,11 @@
  
 3. 알고리즘 다 풀고 각자 블로그에 정리하고 다른 사람들은 댓글로 코드 리뷰하기
  
-4. 화요일 자정까지 제출
+4. 월요일 자정까지 제출(코드, 블로그 글쓰기 포함)
 => 미제출 시 **벌금 5000원**, 지각 제출 **벌금 1000원**
+
+5. 화요일 자정까지 코드 리뷰(댓글)
+
 
 ## 📅 스터디 일정
 
@@ -40,3 +43,4 @@
 |1주차</br> (23.01.18 ~ 23.01.24)|[2xn 타일링](https://www.acmicpc.net/problem/11726)|[1로 만들기](https://www.acmicpc.net/problem/1463)|[정수 삼각형](https://www.acmicpc.net/problem/1932)|
 |2주차</br> (23.01.25 ~ 23.01.31)|[RGB거리](https://www.acmicpc.net/problem/1149)|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[계단 수](https://www.acmicpc.net/problem/1562)|
 |3주차</br> (23.02.01 ~ 23.02.07)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[LCS](https://www.acmicpc.net/problem/9251)|[줄 세우기](https://www.acmicpc.net/problem/2631)|
+|4주차</br> (23.02.08 ~ 23.02.14)|[주사위](acmicpc.net/problem/1041)|[도서관](https://www.acmicpc.net/problem/1461)|[강의실 배정](https://www.acmicpc.net/problem/11000)|
