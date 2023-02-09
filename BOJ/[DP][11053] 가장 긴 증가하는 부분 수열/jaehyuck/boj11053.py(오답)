@@ -1,0 +1,25 @@
+import sys
+input = sys.stdin.readline
+
+
+num = int(input())
+dp=list(map(int, input().split()))
+dp1 = [0]*num
+cnt = 0; max1 = 0
+for i in dp:
+    if max1<i:
+        max1 =i
+        cnt+=1
+dp1[0]=cnt
+min1 = dp[0]
+for i in range(1,len(dp)):
+    if min1 > dp[i]:
+        min1 = dp[i]
+        cnt = 0; max1 = 0
+        for j in range(i, len(dp)):
+            if max1 <dp[j]:
+                max1 = dp[j]
+                cnt+=1
+        dp1[i]=cnt
+
+print(max(dp1))
