@@ -18,8 +18,8 @@ sum += (4*(n-1) + 4*(n-2)) * buf
 buf+=arr[2]
 sum += 4 * buf
 
-val=0
 if n==1:
+    val=0
     for i in num_list:
         val += i
     val -= max(num_list)
