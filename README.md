@@ -44,6 +44,7 @@
 |2주차</br> (23.01.25 ~ 23.01.31)|[RGB거리](https://www.acmicpc.net/problem/1149)|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[계단 수](https://www.acmicpc.net/problem/1562)|
 |3주차</br> (23.02.01 ~ 23.02.07)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[LCS](https://www.acmicpc.net/problem/9251)|[줄 세우기](https://www.acmicpc.net/problem/2631)|
 |4주차</br> (23.02.08 ~ 23.02.14)|[주사위](https://www.acmicpc.net/problem/1041)|[도서관](https://www.acmicpc.net/problem/1461)|[강의실 배정](https://www.acmicpc.net/problem/11000)|
+|5주차</br> (23.02.08 ~ 23.02.14)|[배](https://www.acmicpc.net/problem/1092)|[단어수학](https://www.acmicpc.net/problem/1339)|[카드 정렬하기](https://www.acmicpc.net/problem/1715)|
 
-1~3주차 : DP
-4~ 주차 : GREEDY
+1-3주차 : DP
+4-6주차 : GREEDY
