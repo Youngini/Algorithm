@@ -20,8 +20,10 @@ result = 0
 
 for i in range(0, len(ploc), m):
     result += ploc[i]*2
+    print(result)
 for i in range(0, len(mloc), m):
     result += mloc[i]*2
+    print(result)
     
 print(result-maxloc)
 
