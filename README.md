@@ -44,7 +44,10 @@
 |2주차</br> (23.01.25 ~ 23.01.31)|[RGB거리](https://www.acmicpc.net/problem/1149)|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[계단 수](https://www.acmicpc.net/problem/1562)|
 |3주차</br> (23.02.01 ~ 23.02.07)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[LCS](https://www.acmicpc.net/problem/9251)|[줄 세우기](https://www.acmicpc.net/problem/2631)|
 |4주차</br> (23.02.08 ~ 23.02.14)|[주사위](https://www.acmicpc.net/problem/1041)|[도서관](https://www.acmicpc.net/problem/1461)|[강의실 배정](https://www.acmicpc.net/problem/11000)|
-|5주차</br> (23.02.08 ~ 23.02.14)|[배](https://www.acmicpc.net/problem/1092)|[단어수학](https://www.acmicpc.net/problem/1339)|[카드 정렬하기](https://www.acmicpc.net/problem/1715)|
+|5주차</br> (23.02.15 ~ 23.02.21)|[배](https://www.acmicpc.net/problem/1092)|[단어수학](https://www.acmicpc.net/problem/1339)|[카드 정렬하기](https://www.acmicpc.net/problem/1715)|
+|6주차</br> (23.02.22 ~ 23.02.29)|[저울](https://www.acmicpc.net/problem/2437)|[컵라면](https://www.acmicpc.net/problem/1781)|[공항](https://www.acmicpc.net/problem/10775)|
+|7주차</br> (23.03.01 ~ 23.03.08)|[그림](https://www.acmicpc.net/problem/1926)|[미로탐색](https://www.acmicpc.net/problem/2178)|[연구소](https://www.acmicpc.net/problem/14502)|
 
-1-3주차 : DP
-4-6주차 : GREEDY
+- 1주차 ~ 3주차 : 다이나믹 프로그래밍 (DP)
+- 4주차 ~ 6주차 : 그리디 알고리즘 (Greedy)
+- 7주차 ~ 9주차 : 그래프 탐색 (DFS & BFS)
