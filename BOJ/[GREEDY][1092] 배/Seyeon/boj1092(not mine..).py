@@ -18,6 +18,7 @@ while len(boxes)>0:
         for box in boxes:
             if limit >= box:
                 boxes.remove(box)
+                break
     time+=1
     
 print(time)

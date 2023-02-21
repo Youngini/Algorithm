@@ -17,6 +17,9 @@ for i in range(len(array)-1):
 
 
 i = len(array)-1
+
+if pivot== -1 and array[0] < 0:
+    pivot = len(array)-1
     
 while i > pivot:
     count += abs(array[len(array)-1]) * 2
@@ -30,7 +33,7 @@ i = 0
 
 while i <= pivot:
     count += abs(array[0]) * 2
-    
+        
     for j in range(k):
         i += 1
         array.popleft()
