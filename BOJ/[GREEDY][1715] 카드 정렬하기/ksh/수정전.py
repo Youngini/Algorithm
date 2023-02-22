@@ -1,4 +1,3 @@
-#고쳤는데.. 새로운 반례가 피료해여.....
 import sys
 n = int(sys.stdin.readline())
 num_list = []
@@ -26,13 +25,8 @@ else:
             i+=2
     #num_list에 원소가 1개로 남았을때
     if i == n-1:
-        if len(queue)>1 and queue[1]<num_list[i]:
-            queue.append(num_list[i])
-            queue.sort()
-            sum-=num_list[i]
-        else:
-            queue.append(queue[0]+num_list[i])
-            sum+=queue.pop(0)
+        queue.append(queue[0]+num_list[i])
+        sum+=queue.pop(0)
         
     #큐에 남은 원소 처리
     i = 0
