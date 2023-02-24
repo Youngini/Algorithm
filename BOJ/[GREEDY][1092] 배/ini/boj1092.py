@@ -3,7 +3,7 @@ N = int(sys.stdin.readline())
 weight_limit = [int(x) for x in sys.stdin.readline().split()]
 M = int(sys.stdin.readline())
 weight = [int(x) for x in sys.stdin.readline().split()]
-temp = []
+
 weight_limit.sort(reverse=True)
 weight.sort(reverse=True)
 t, j = 0, 0
