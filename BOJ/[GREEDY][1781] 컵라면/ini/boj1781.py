@@ -1,15 +1,15 @@
-import sys
+import sys, heapq
 input = sys.stdin.readline
-
 N = int(input())
-arr = [list(map(int,input().split())) for _ in range(N)]
-arr.sort(key = lambda x :( x[0], -x[1]))
-
-n, ans = 0, 0
+arr = [list(map(int, input().split())) for _ in range(N)]
+arr.sort()
+queue = [] # 컵라면 수 저장
 
 for i in arr:
-    if(n < i[0]):
-        ans += i[1]
-        n = i[0]
+    if(len(queue) < i[0]):
+        heapq.heappush(queue, i[1])
+    else:
+        heapq.heappop(queue)
+        heapq.heappush(queue, i[1])
 
-print(ans)
+print(sum(queue))
