@@ -1,11 +1,10 @@
-#배열 주소값 접근할 수 있는 방법
 import sys
 input = sys.stdin.readline
 
 G = int(input())
 P = int(input())
 planes = []
-gate = []
+gate = [0,]
 for i in range(P):
     planes.append(int(input()))
 for i in range(G):
@@ -13,17 +12,25 @@ for i in range(G):
 
 cnt = 0
 
-for g in planes:
-    if gate[g-1]==0:
-        break
+def union_find(parent, x):
+    if parent[x] == x:
+        return x
+    parent[x] = union_find(parent,parent[x])
+    return parent[x]
 
-    cnt+=1
-    if gate[g-1]==g:
-        if g-1 == 0:
-            gate[g-1] = 0
-        else:
-            gate[g-1] = gate[g-2]
+# def union_find(parent, x):
+#     if parent[x] == x:
+#         return x
+#     return union_find(parent,parent[x])
+
+
+for g in planes:
+    plane = union_find(gate, g)
+    if plane == 0:
+        break
     else:
-        gate[g-1] = gate[gate[g-1]]
+        cnt+=1
+        gate[plane] = gate[plane-1]
+    
     
 print(cnt)
