@@ -20,6 +20,6 @@ for i in range(P):
             break
         maximum -= 1
     if maximum == 0:
-        break
+            break
         
 print(result)
