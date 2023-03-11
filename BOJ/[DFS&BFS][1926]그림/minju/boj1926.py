@@ -13,7 +13,7 @@ for _ in range(n):
 dy = [-1, 1, 0, 0]
 dx = [0, 0, -1, 1]
 
-def bfs(graph, a, b):
+def bfs(a, b):
     queue = deque()
     queue.append((a,b))
     #방문
@@ -42,7 +42,7 @@ paint = []
 for i in range(n):
     for j in range(m):
         if graph[i][j] == 1:
-            paint.append(bfs(graph, i, j))
+            paint.append(bfs(i, j))
 
 
 if len(paint) == 0:
