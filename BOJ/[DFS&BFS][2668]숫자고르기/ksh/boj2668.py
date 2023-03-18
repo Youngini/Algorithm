@@ -3,41 +3,48 @@ import sys
 input = sys.stdin.readline
 n = int(input())
 adj_list=[[]for i in range(n+1)]
-arr=[]
-visit=[[]for i in range(n+1)]
-start=0
-cnt = 0
-temp = 0
-loc=0
+visited=[False]*(n+1)
+
 for i in range(1,n+1):
-    arr.append(int(input()))
-for i in range(n):
-    adj_list[arr[i]].append(i+1)
-    visit[arr[i]].append(0)
+    adj_list[int(input())].append(i)
 
+cycle = []
+cnt=0
+ans = set()
 
-def dfs(node):
-    global start
+def dfs(graph, node):
     global cnt
-    global temp
-    while(visit[node]!=[] and loc<len(visit[node])):
-        if visit[node][loc]==0:   #계속 바꿔나가는 과정
-            visit[node][loc]=1
-            next = adj_list[node][0]
-            temp +=1
-            loc+=1
-            dfs(next)
-        else:
-            if start == node:
-                cnt+=temp
+    visited[node] = True
+    
 
+    for i in graph[node]:
+        if not visited[i]:
+            cycle.append(i)
+            dfs(graph,i)
+            cycle.pop()
+
+        else:
+            if cycle[0]==i:
+                cnt += len(cycle)
+                ans.update(cycle)
 
 
 
 for i in range(1,n+1):
-    if visit[i][0]==0:
-        start = i
-        temp = 0
-        dfs(i)
+    if not visited[i]:
+        cycle.append(i)
+        dfs(adj_list,i)
+        cycle.pop()
+
+
+
 
 print(cnt)
+answer = sorted(list(ans))
+
+for i in answer:
+    print(i)
+
+
+
+
