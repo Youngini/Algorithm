@@ -48,7 +48,7 @@
 |6주차</br> (23.02.22 ~ 23.02.29)|[저울](https://www.acmicpc.net/problem/2437)|[컵라면](https://www.acmicpc.net/problem/1781)|[공항](https://www.acmicpc.net/problem/10775)|
 |7주차</br> (23.03.01 ~ 23.03.08)|[그림](https://www.acmicpc.net/problem/1926)|[미로탐색](https://www.acmicpc.net/problem/2178)|[연구소](https://www.acmicpc.net/problem/14502)|
 |8주차</br> (23.03.12 ~ 23.03.19)|[숫자고르기](https://www.acmicpc.net/problem/2668)|[적록색약](https://www.acmicpc.net/problem/10026)|[아기상어](https://www.acmicpc.net/problem/16236)|
-
+|9주차</br> (23.03.26 ~ 23.04.2)|[ABCDE](https://www.acmicpc.net/problem/13023)|[인구이동](https://www.acmicpc.net/problem/16234)|[연구소3](https://www.acmicpc.net/problem/17142)|
 
 - 1주차 ~ 3주차 : 다이나믹 프로그래밍 (DP)
 - 4주차 ~ 6주차 : 그리디 알고리즘 (Greedy)
